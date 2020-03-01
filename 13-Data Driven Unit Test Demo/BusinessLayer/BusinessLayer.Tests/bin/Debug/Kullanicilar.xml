@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kullanicilar>
+  <Kullanici ad="Salih" telefon="21324234234" mail="asd@dsd.com"/>
+  <Kullanici ad="Mustafa" telefon="234234324" mail="mustafa@dsd.com"/>
+  <Kullanici ad="Mehmet" telefon="5345546456" mail="mehmet@dsd.com"/>
+  <Kullanici ad="Murat" telefon="768678678" mail="murat@dsd.com"/>
+  <Kullanici ad="Ayse" telefon="5346456" mail="ayse@dsd.com"/>
+  <Kullanici ad="Fatma" telefon="76786345" mail="fatma@dsd.com"/>
+</Kullanicilar>

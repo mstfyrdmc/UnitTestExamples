@@ -1,0 +1,17 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\ShoppingCart.Test.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\ShoppingCart.Test.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\ShoppingCart.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\ShoppingCart.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\ShoppingCart.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\obj\Debug\ShoppingCart.Test.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\obj\Debug\ShoppingCart.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\obj\Debug\ShoppingCart.Test.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\obj\Debug\ShoppingCart.Test.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\5-Test Level\ShoppingCart\ShoppingCart.Test\obj\Debug\ShoppingCart.Test.pdb

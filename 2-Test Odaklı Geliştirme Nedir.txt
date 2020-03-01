@@ -1,0 +1,6 @@
+Nedir?
+---------------
+=> Yazýlýmý geliþtirirken kullanýlan bi yöntemdir.
+=> Yazýlýmý geliþtirmeden önce yazýlmalýdýr.
+
+_____________________

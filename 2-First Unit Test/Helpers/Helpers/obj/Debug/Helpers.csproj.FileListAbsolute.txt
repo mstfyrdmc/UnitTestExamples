@@ -1,0 +1,6 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\bin\Debug\Helpers.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\obj\Debug\Helpers.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers\obj\Debug\Helpers.pdb

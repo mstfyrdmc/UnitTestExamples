@@ -1,0 +1,16 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Helpers.Test.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Helpers.Test.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Helpers.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Helpers.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\obj\Debug\Helpers.Test.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\obj\Debug\Helpers.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\obj\Debug\Helpers.Test.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\obj\Debug\Helpers.Test.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\4-First Unit Test\Helpers\Helpers.Test\obj\Debug\Helpers.Test.pdb

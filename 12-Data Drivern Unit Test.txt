@@ -1,0 +1,8 @@
+
+=>Kullanýlan kaynaktaki(XML dosyasý,Excell,Veritabaný) her satýr için birim testinin otomatik olarak çalýþtýrýlmasý esasýna dayanýr.
+
+=>Kullaným Amaçlarý;
+
+-Ayný birim testini farklý deðerlerle dinamik olarak test etmek için kullanýlabilir.
+
+-Veritabanýna veri import etmek istediðimizde kullanýlabilir.

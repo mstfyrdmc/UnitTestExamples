@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\13-Data Driven Unit Test Demo\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

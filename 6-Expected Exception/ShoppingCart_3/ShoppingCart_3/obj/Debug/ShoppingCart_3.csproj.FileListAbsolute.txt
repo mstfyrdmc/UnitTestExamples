@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\bin\Debug\ShoppingCart_3.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\bin\Debug\ShoppingCart_3.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\bin\Debug\ShoppingCart_3.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\obj\Debug\ShoppingCart_3.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\obj\Debug\ShoppingCart_3.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\obj\Debug\ShoppingCart_3.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\8-Expected Exception\ShoppingCart_3\ShoppingCart_3\obj\Debug\ShoppingCart_3.pdb

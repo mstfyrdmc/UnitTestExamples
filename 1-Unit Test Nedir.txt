@@ -1,0 +1,26 @@
+Birim (Unit) Test Nedir?
+----------------------------
+=>En temel test çeþididir.Kodlama ile birlikte yapýlýr. Sonrasýnda deðil.
+
+=>Kodlamayý yapan kiþi yazar.
+
+=>Yazýlýmdaki en küçük birimle ilgilenir bu da metoddur.
+
+=>Yazdýðýmýz bir kodu varsayýmlarda bulunarak baþka kodlarla test etmektir.
+
+=>Varsayýmlar yanlýþ çýkarsa birim test baþarýsýz olmuþtur.Her birim test birbirinden baðýmsýz çalýþýr.
+
+=> N katmanlý bir projede iþ katmaný ve UI'da uygulamak yeterlidir.
+___________________________________
+
+Birim Test Yazmanýn Avantajlarý:
+-----------------------------
+
+=>Kodun anlaþýlmasýný kolaylaþtýrýr.
+=>Daha hýzlý yazýlým geliþtirmeyi saðlar
+=>Koddaki hata oranýný azaltýr.
+=>Kod kalitesinin artmasýný saðlar.
+=>Hatalarýn çabuk test edilip düzeltilmesini saðlar.
+
+_______________________________
+

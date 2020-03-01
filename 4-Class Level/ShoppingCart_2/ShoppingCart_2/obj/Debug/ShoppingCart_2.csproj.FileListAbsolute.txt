@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\bin\Debug\ShoppingCart_2.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\bin\Debug\ShoppingCart_2.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\bin\Debug\ShoppingCart_2.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\obj\Debug\ShoppingCart_2.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\obj\Debug\ShoppingCart_2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\obj\Debug\ShoppingCart_2.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\6-Class Level\ShoppingCart_2\ShoppingCart_2\obj\Debug\ShoppingCart_2.pdb

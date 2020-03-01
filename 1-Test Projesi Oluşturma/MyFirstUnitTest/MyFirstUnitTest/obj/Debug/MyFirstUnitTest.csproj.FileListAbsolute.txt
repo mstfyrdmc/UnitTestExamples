@@ -1,0 +1,14 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\MyFirstUnitTest.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\MyFirstUnitTest.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\obj\Debug\MyFirstUnitTest.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\obj\Debug\MyFirstUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\obj\Debug\MyFirstUnitTest.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\obj\Debug\MyFirstUnitTest.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\3- Test Projesi Oluşturma\MyFirstUnitTest\MyFirstUnitTest\obj\Debug\MyFirstUnitTest.pdb

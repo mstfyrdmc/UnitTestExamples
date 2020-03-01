@@ -1,0 +1,11 @@
+=> Uygulama içersinde yani birim testlerin çalýþma anýnda bizlere bilgi veren nesnedir.
+
+=>Kullanmak için Nedenler
+
+-Örn. bir birim testi içerisinde testin adý, durumu gibi bilgileri almak için kullanýlýr.
+
+-Örn. bir web servisi test ettiðimizde, web servise ait url bilgileri, durumu gibi bilgileri için kullanýlýr.
+
+-Örn. bir asp.Net MVC uygulamasýný test ediyorsak buradaki page nesnesini TestContext nesnesi ile elde edebiliriz.
+
+-Örn. Veri güdümlü unit testlerde her bir veriyi elde etmek için kullanýlabilir.

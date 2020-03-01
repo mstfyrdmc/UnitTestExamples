@@ -1,0 +1,14 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\TextContext_Demo.Tests.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\TextContext_Demo.Tests.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\obj\Debug\TestContext_Demo.Tests.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\obj\Debug\TestContext_Demo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\obj\Debug\TestContext_Demo.Tests.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\obj\Debug\TextContext_Demo.Tests.dll
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\4-Unit Test\11-Test Context Demo\TextContext_Demo.Tests\TextContext_Demo.Tests\obj\Debug\TextContext_Demo.Tests.pdb
